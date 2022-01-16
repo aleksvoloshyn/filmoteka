@@ -1,0 +1,44 @@
+[
+  {
+    "photo": "https://live.staticflickr.com/65535/51356630753_5f59dec961_n.jpg",
+    "name": "Nataliia Valko",
+    "position": "team-lead",
+    "meta": "all"
+  },
+  {
+    "photo": "https://live.staticflickr.com/65535/51355167828_34e6d20320_n.jpg",
+    "name": "Nikolay Mosalov",
+    "position": "scrum-master",
+    "meta": "all"
+  },
+  {
+    "photo": "https://live.staticflickr.com/65535/51357338839_fc0b295628_m.jpg",
+    "name": "Hennadiy Mariev",
+    "position": "developer",
+    "meta": "header"
+  },
+  {
+    "photo": "https://live.staticflickr.com/65535/51355167858_ab0f985c23_n.jpg",
+    "name": "Volodymyr Marchuk",
+    "position": "developer",
+    "meta": "all"
+  },
+  {
+    "photo": "https://live.staticflickr.com/65535/51357412190_51bbb5f136_n.jpg",
+    "name": "Alexei Voloshin",
+    "position": "developer",
+    "meta": "functional"
+  },
+  {
+    "photo": "https://live.staticflickr.com/65535/51354196652_75c818a3bc_n.jpg",
+    "name": "Mykola Kolesnyk",
+    "position": "developer",
+    "meta": "modal window "
+  },
+  {
+    "photo": "https://live.staticflickr.com/65535/51358089080_593614fa85_m.jpg",
+    "name": "Vitaliy Vovk",
+    "position": "developer",
+    "meta": "footer"
+  }
+]
